@@ -1,0 +1,5 @@
+[
+  {"id":"temple","label":"Temple complex","excursion":{"name":"Old City & Temple Walk","walkingMinutes":75,"standingMinutes":25,"stairs":38,"terrain":"rough","seatsEveryMinutes":30,"pace":"group","escapeRoute":false,"confidence":"traveler"},"traveler":{"walkingLimit":35,"standingLimit":15,"maxStairs":10,"roughTerrain":false,"needsSeatsEvery":10,"groupPace":false}},
+  {"id":"harbor","label":"Harbor panorama","excursion":{"name":"Scenic Harbor Lookout","walkingMinutes":18,"standingMinutes":8,"stairs":4,"terrain":"flat","seatsEveryMinutes":8,"pace":"self","escapeRoute":true,"confidence":"verified"},"traveler":{"walkingLimit":30,"standingLimit":15,"maxStairs":8,"roughTerrain":false,"needsSeatsEvery":10,"groupPace":false}},
+  {"id":"village","label":"Coastal village","excursion":{"name":"Coastal Village Highlights","walkingMinutes":42,"standingMinutes":18,"stairs":12,"terrain":"mixed","seatsEveryMinutes":0,"pace":"group","escapeRoute":true,"confidence":"estimate"},"traveler":{"walkingLimit":45,"standingLimit":20,"maxStairs":15,"roughTerrain":false,"needsSeatsEvery":12,"groupPace":true}}
+]
